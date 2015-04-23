@@ -1,3 +1,3 @@
 # CUE_Template
-Home/AV automation system template
+Linux based  Home/AV automation system template
  
